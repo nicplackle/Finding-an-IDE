@@ -1,8 +1,8 @@
 # Finding-an-IDE
 
 
-## 1. Visual Studio Code  38.7%
-## 1. Visual Studio  35.7%
+1. <h1> Visual Studio Code  38.7%
+1. <h1> Visual Studio  35.7%
 
 Visual Studio (full version) is a "full-featured" and "convenient" development environment.
 
