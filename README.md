@@ -23,18 +23,16 @@ Searching for and comparing different IDE's
 Lets take Vim as an example and do some researcher on it
 
 ### Specs
-> Platforms: Windows, macOS, Linux
+`< 
+Platforms: Windows, macOS, Linux
+License: MIT (open scource
 
-> License: MIT (open scource
+Bracket matching: Yes
 
-> Bracket matching: Yes
-
-> Cross Platform: Yes
-
-> Multi Language Support: Yes
+Cross Platform: Yes
+Multi Language Support: Yes
 
 > Auto Complete: Yes
-
 > Extension language: JavaScript/TypeScript
 
 > Plugin Manager: Yes
