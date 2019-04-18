@@ -24,17 +24,32 @@ Lets take Vim as an example and do some researcher on it
 
 ### Specs
 > Platforms: Windows, macOS, Linux
+
 > License: MIT (open scource
+
 > Bracket matching: Yes
+
 > Cross Platform: Yes
+
 > Multi Language Support: Yes
+
 > Auto Complete: Yes
+
 > Extension language: JavaScript/TypeScript
+
 > Plugin Manager: Yes
+
 > Price: Free
+
 > Source Control Integration:Yes
+
 > Integrated Debugger:Yes
+
 > Preview: live side-by-side
+
 > Export: PDF via Extensions
+
 > Plugin: auto generated
+
 > CPUsMore than one
+
