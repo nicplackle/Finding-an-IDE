@@ -19,7 +19,7 @@ Searching for and comparing different IDE's
 * Geany
   
   
-# Vim
+![# Vim](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png)
 Lets take Vim as an example and do some researcher on it
 
 ### Specs
