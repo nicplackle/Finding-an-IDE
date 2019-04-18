@@ -8,7 +8,9 @@
 ## Interface
 
 VVim's interface is not based on menus or icons but on commands given in a text user interface; its GUI mode, **gVim**, adds menus and toolbars for commonly used commands but the full functionality is still expressed through its command line mode.
+
 ![gVim](https://en.wikipedia.org/wiki/Vim_(text_editor)#/media/File:Vim.png)
+
 Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. 
 Vim tends to allow a typist to keep their fingers on the home row, which can be an advantage for a touch typist.
 Vim also has a built-in tutorial, manual and built-in help facility.
