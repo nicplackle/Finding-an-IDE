@@ -22,7 +22,7 @@ Vim also has a built-in tutorial, manual and built-in help facility.
 Vim's power is that it can be extensively customized.  From personalized key mappings—often called macros— to color, look and type font. 
 There are many plugins available that will extend or add new functionality to Vim. There are projects bundling together complex scripts and customizations and aimed at turning Vim into a tool for a specific task or adding a major flavour to its behavior. Examples include Cream, which makes Vim behave like a click-and-type editor, or VimOutliner, which provides a comfortable outliner for users of Unix-like systems.
 
-##Pros
+## Pros
 One-key shortcuts
 2 Modes: Normal and Editing mode. You can record strings and repeat them
 Has its own scripting language to alter its behavior and add custom functionality
@@ -37,7 +37,7 @@ Supports the largest number of programming languages and non-programming apps
 * hardcore
 
 
-##Cons
+## Cons
 * Use of mouse is slow
 * Doesn't provide WISIWIG editing
 * Doesn't show popups in different font
